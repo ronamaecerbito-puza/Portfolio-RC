@@ -139,12 +139,12 @@ h3 {
 .hero-lead {
   font-size: 1.13rem;
   max-width: 560px;
-  color: #45534e;
+  color: #000000;
   line-height: 1.8;
 }
 .hero-note {
   font-size: 0.9rem;
-  color: var(--muted);
+  color: #000000;
 }
 .hero-actions {
   display: flex;
@@ -179,7 +179,7 @@ h3 {
   gap: 18px;
   flex-wrap: wrap;
   font-size: 0.76rem;
-  color: var(--muted);
+  color: #000000;
 }
 .hero-art {
   position: relative;
