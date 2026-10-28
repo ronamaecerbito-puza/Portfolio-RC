@@ -776,7 +776,7 @@ footer { background: #fff; border-top: 1px solid #ececf0; }
 
 :root {
   --ink: #1b2b21 !important;
-  --muted: #66756a !important;
+  --muted: ##1f2937!important;
   --paper: #ffffff !important;
   --green: #2e7d32 !important;
   --green-dark: #1b5e20 !important;
