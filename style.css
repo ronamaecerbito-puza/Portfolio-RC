@@ -833,3 +833,24 @@ button:hover,
 .hero p, .hero span, .hero div {
   color: #000000 !important;
 }
+
+/* =========================================================
+   FIX TEXT CONTRAST & READABILITY
+   ========================================================= */
+
+/* 1. Palitan ang kulay ng mga muted text variables */
+:root {
+  --muted: #222222 !important;
+}
+
+/* 2. Piliting gawing itim/dark ang lahat ng paragraph at sub-text */
+p, span, div {
+  color: #222222 !important;
+  opacity: 1 !important;
+}
+
+/* 3. Para sa mga nakasulat sa loob ng skill cards at iba pa */
+.skill-card p, .skill-card span, .project-card p {
+  color: #1a1a1a !important;
+  opacity: 1 !important;
+}
