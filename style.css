@@ -828,3 +828,8 @@ button:hover,
   background-color: #f4f8f3 !important;
   border-color: #dce8dc !important;
 }
+
+/* Ilagay ito sa pinakadulo ng iyong style.css file */
+.hero p, .hero span, .hero div {
+  color: #000000 !important;
+}
